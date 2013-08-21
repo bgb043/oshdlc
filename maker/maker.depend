@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1218698710 source:d:\project\oshdlc\maker\hdlctmaker.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"hdlctmaker.h"
+	"version.h"
+
+1121096980 d:\project\oshdlc\maker\hdlctmaker.h
+	"version.h"
+	"types.h"
+
+1217489019 d:\project\oshdlc\include\version.h
+
+1217504392 d:\project\oshdlc\include\types.h
+	<stdio.h>
+
+1218698913 source:d:\project\oshdlc\maker\main.c
+	<stdio.h>
+	<stdlib.h>
+	"hdlctmaker.h"
+	"hdlcrmaker.h"
+
+1126257630 d:\project\oshdlc\maker\hdlcrmaker.h
+	"version.h"
+	"types.h"
+
+1218698725 source:d:\project\oshdlc\maker\hdlcrmaker.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"hdlcrmaker.h"
+	"version.h"
+
+1377081748 source:c:\users\mete.cantimur\downloads\oshdlc\maker\hdlcrmaker.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"hdlcrmaker.h"
+	"version.h"
+
+1377084941 c:\users\mete.cantimur\downloads\oshdlc\maker\hdlcrmaker.h
+	"version.h"
+	"types.h"
+
+1377083398 c:\users\mete.cantimur\downloads\oshdlc\include\version.h
+
+1377082046 c:\users\mete.cantimur\downloads\oshdlc\include\types.h
+	<stdio.h>
+	<stdint.h>
+	<limits.h>
+
+1377081760 source:c:\users\mete.cantimur\downloads\oshdlc\maker\hdlctmaker.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"hdlctmaker.h"
+	"version.h"
+
+1377083346 c:\users\mete.cantimur\downloads\oshdlc\maker\hdlctmaker.h
+	"version.h"
+	"types.h"
+
+1377081755 source:c:\users\mete.cantimur\downloads\oshdlc\maker\main.c
+	<stdio.h>
+	<stdlib.h>
+	"hdlctmaker.h"
+	"hdlcrmaker.h"
+

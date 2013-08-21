@@ -1,0 +1,180 @@
+# depslib dependency file v1.0
+1178094670 source:d:\project\hdlc\source\hdlcbuf.c
+	"hdlcbuf.h"
+
+1218696530 d:\project\hdlc\include\hdlcbuf.h
+	"types.h"
+	<string.h>
+
+1217504392 d:\project\hdlc\include\types.h
+	<stdio.h>
+
+1217509712 source:d:\project\hdlc\source\hdlcrec.c
+	"hdlcrec.h"
+	<stdio.h>
+	<stdlib.h>
+	"hdlcr_table.h"
+
+1217508425 d:\project\hdlc\include\hdlcrec.h
+	"hdlcbuf.h"
+	"lib_crc.h"
+
+1150177018 d:\project\hdlc\include\lib_crc.h
+
+1168007470 d:\project\hdlc\include\hdlcr_table.h
+
+1127725762 source:d:\project\hdlc\source\hdlctrans.c
+	"hdlctrans.h"
+	<string.h>
+	"hdlct_table.h"
+
+1218694959 d:\project\hdlc\include\hdlctrans.h
+	"hdlcbuf.h"
+	"lib_crc.h"
+
+1168007470 d:\project\hdlc\include\hdlct_table.h
+
+1159179055 source:d:\project\hdlc\source\lib_crc.c
+	"lib_crc.h"
+
+1218441190 source:d:\project\hdlc\source\hdlc-dll.c
+	"hdlc-dll.h"
+	<stdlib.h>
+
+1218441089 d:\project\hdlc\include\hdlc-dll.h
+	"types.h"
+	"hdlctrans.h"
+	"hdlcrec.h"
+	"dque.h"
+
+1126536782 d:\project\hdlc\include\lib_hdlc.h
+	"hdlctrans.h"
+	"hdlcrec.h"
+
+1218441208 source:d:\project\hdlc\hdlc-tester\main.c
+	<stdio.h>
+	<stdlib.h>
+	"hdlc-dll.h"
+
+1218696508 d:\project\hdlc\include\dque.h
+	"types.h"
+
+1192434696 source:d:\project\hdlc\source\dque.c
+	"dque.h"
+
+1218696526 source:d:\project\oshdlc\source\hdlcbuf.c
+	"hdlcbuf.h"
+
+1218696145 source:d:\project\oshdlc\source\hdlclib.c
+	"hdlclib.h"
+	<stdlib.h>
+
+1218697161 d:\project\oshdlc\include\hdlclib.h
+	"types.h"
+	"hdlctrans.h"
+	"hdlcrec.h"
+	"dque.h"
+
+1217504392 d:\project\oshdlc\include\types.h
+	<stdio.h>
+
+1217510065 d:\project\oshdlc\include\hdlctrans.h
+	"hdlcbuf.h"
+	"lib_crc.h"
+
+1217507122 d:\project\oshdlc\include\hdlcbuf.h
+	"types.h"
+	<string.h>
+
+1150177018 d:\project\oshdlc\include\lib_crc.h
+
+1217508425 d:\project\oshdlc\include\hdlcrec.h
+	"hdlcbuf.h"
+	"lib_crc.h"
+
+1218204794 d:\project\oshdlc\include\dque.h
+	"types.h"
+
+1218694999 source:d:\project\oshdlc\source\hdlcrec.c
+	"hdlcrec.h"
+	<stdio.h>
+	<stdlib.h>
+	"hdlcr_table.h"
+
+1218693584 source:d:\project\oshdlc\source\hdlctrans.c
+	"hdlctrans.h"
+	<string.h>
+	"hdlct_table.h"
+
+1159179055 source:d:\project\oshdlc\source\lib_crc.c
+	"lib_crc.h"
+
+1218697127 source:d:\project\oshdlc\tester\main.c
+	<stdio.h>
+	<stdlib.h>
+	"hdlclib.h"
+
+1218696518 source:d:\project\oshdlc\source\dque.c
+	"dque.h"
+
+1218692918 source:c:\users\mete.cantimur\downloads\oshdlc\source\dque.c
+	"dque.h"
+
+1218201194 c:\users\mete.cantimur\downloads\oshdlc\include\dque.h
+	"types.h"
+
+1377082046 c:\users\mete.cantimur\downloads\oshdlc\include\types.h
+	<stdio.h>
+	<stdint.h>
+	<limits.h>
+
+1218692926 source:c:\users\mete.cantimur\downloads\oshdlc\source\hdlcbuf.c
+	"hdlcbuf.h"
+
+1217503522 c:\users\mete.cantimur\downloads\oshdlc\include\hdlcbuf.h
+	"types.h"
+	<string.h>
+
+1218692545 source:c:\users\mete.cantimur\downloads\oshdlc\source\hdlclib.c
+	"hdlclib.h"
+	<stdlib.h>
+
+1218693561 c:\users\mete.cantimur\downloads\oshdlc\include\hdlclib.h
+	"types.h"
+	"hdlctrans.h"
+	"hdlcrec.h"
+	"dque.h"
+
+1228294842 c:\users\mete.cantimur\downloads\oshdlc\include\hdlctrans.h
+	"hdlcbuf.h"
+	"lib_crc.h"
+
+1150173418 c:\users\mete.cantimur\downloads\oshdlc\include\lib_crc.h
+
+1228294854 c:\users\mete.cantimur\downloads\oshdlc\include\hdlcrec.h
+	"hdlcbuf.h"
+	"lib_crc.h"
+
+1218691399 source:c:\users\mete.cantimur\downloads\oshdlc\source\hdlcrec.c
+	"hdlcrec.h"
+	<stdio.h>
+	<stdlib.h>
+	"hdlcr_table.h"
+
+1377084945 c:\users\mete.cantimur\downloads\oshdlc\include\hdlcr_table.h
+
+1218689984 source:c:\users\mete.cantimur\downloads\oshdlc\source\hdlctrans.c
+	"hdlctrans.h"
+	<string.h>
+	"hdlct_table.h"
+
+1377084945 c:\users\mete.cantimur\downloads\oshdlc\include\hdlct_table.h
+
+1159175455 source:c:\users\mete.cantimur\downloads\oshdlc\source\lib_crc.c
+	"lib_crc.h"
+
+1377085217 source:c:\users\mete.cantimur\downloads\oshdlc\tester\main.c
+	<stdio.h>
+	<stdlib.h>
+	"hdlclib.h"
+
